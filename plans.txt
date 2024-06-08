@@ -1,0 +1,7 @@
+Plans -
+*Sounds and music
+Menu driven, interactive software - Start and paused screen
+high score and database with peoples accounts
+Upgrades to increase starting speed, ammo refill & points speed, extra lives, etc all stored in database
+
+Improvements - 
